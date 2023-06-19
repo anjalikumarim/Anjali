@@ -1,1 +1,1 @@
-#EastMyTripAutomationFinalProject
+#EasyMyTripAutomationFinalProject
